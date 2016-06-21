@@ -1,7 +1,5 @@
 /* global describe */
 
-'use strict'
-
 const jsc = require('jsverify')
 const { createGrowthModel, averageGrowthModel } = require('./lib')
 
